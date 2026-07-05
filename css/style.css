@@ -9,11 +9,11 @@ nav ul{
     display: flex;
     list-style: none;
     background-color:dimgrey;
+    justify-content: space-between;
 }
 nav ul li{
     margin: 15px;
     padding: 10px;
-    justify-content: space-between;
 
 }
 nav ul li a{
